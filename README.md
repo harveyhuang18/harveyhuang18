@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harveyhuang18
-- 👀 I’m interested in Machine Learning, AI...(Though I am an amateur)
-- 🌱 I’m currently learning Python, TensorFlow...
-- 📫 You can reach me through 220211607@seu.edu.cn
+- 👀 I’m interested in Deep Learning, Computer Vision...
+- 📫 You can reach me through harveyhcy@icloud.com
 
 <!---
 harveyhuang18/harveyhuang18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
